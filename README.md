@@ -19,5 +19,6 @@ Cenário utilizado para estudo é locação de filmes
 
 - ``Java``
 - ``VS Code``
+- ``Maven``
 - ``Paradigma de orientação a objetos``
 - ``JUnit``
