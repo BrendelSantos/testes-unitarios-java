@@ -1,7 +1,3 @@
-
-> :construction: Projeto em construção :construction:
-
-
 # Testes unitários em Java
 
 Projeto para estudos sobre testes unitários utilizando Java
